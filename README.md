@@ -130,9 +130,19 @@ npm start
 
 ---
 
-## Screenshots & Demo Checklist
-When submitting, include captures of:
-1. **Desktop Dashboard** — Asset registration form, stats header, and saved asset cards.
-2. **Record Detail Modal** — Clicking an asset card to view its full photograph and timestamp.
-3. **Search Filter** — Filtering records by Asset ID.
-4. **Mobile View** — Responsive layout accessed from a phone browser.
+## Screenshots
+
+### Dashboard with Saved Assets
+![Dashboard](screenshots/screenshot-5-dashboard.jpg)
+
+### Category Suggestions
+![Category Suggestions](screenshots/screenshot-4-category-suggestions.jpg)
+
+### Search by Asset ID (Match Found)
+![Search Match](screenshots/screenshot-1-search-match.jpg)
+
+### Search Result View
+![Search Result](screenshots/screenshot-2-search-result.jpg)
+
+### Search by Asset ID (No Match)
+![Search Empty](screenshots/screenshot-3-search-empty.jpg)

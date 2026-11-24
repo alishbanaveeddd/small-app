@@ -1,0 +1,13 @@
+# Dependencies
+frontend/node_modules/
+frontend/build/
+
+# Python cache & runtime DB/uploads
+backend/__pycache__/
+backend/*.db
+backend/uploads/
+backend/venv/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
